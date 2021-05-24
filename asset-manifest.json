@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DLA9SwagStore/static/css/main.408db1a0.chunk.css",
+    "main.js": "/DLA9SwagStore/static/js/main.44b67049.chunk.js",
+    "main.js.map": "/DLA9SwagStore/static/js/main.44b67049.chunk.js.map",
+    "runtime-main.js": "/DLA9SwagStore/static/js/runtime-main.6baa1702.js",
+    "runtime-main.js.map": "/DLA9SwagStore/static/js/runtime-main.6baa1702.js.map",
+    "static/js/2.57cb00c2.chunk.js": "/DLA9SwagStore/static/js/2.57cb00c2.chunk.js",
+    "static/js/2.57cb00c2.chunk.js.map": "/DLA9SwagStore/static/js/2.57cb00c2.chunk.js.map",
+    "index.html": "/DLA9SwagStore/index.html",
+    "precache-manifest.7bf491fa644128783f77e7d392e7c686.js": "/DLA9SwagStore/precache-manifest.7bf491fa644128783f77e7d392e7c686.js",
+    "service-worker.js": "/DLA9SwagStore/service-worker.js",
+    "static/css/main.408db1a0.chunk.css.map": "/DLA9SwagStore/static/css/main.408db1a0.chunk.css.map",
+    "static/js/2.57cb00c2.chunk.js.LICENSE.txt": "/DLA9SwagStore/static/js/2.57cb00c2.chunk.js.LICENSE.txt",
+    "static/media/Amazon.jpg": "/DLA9SwagStore/static/media/Amazon.2821557b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6baa1702.js",
+    "static/js/2.57cb00c2.chunk.js",
+    "static/css/main.408db1a0.chunk.css",
+    "static/js/main.44b67049.chunk.js"
+  ]
+}
